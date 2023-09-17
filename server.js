@@ -6,13 +6,13 @@ const PORT = 8000
 app.use(cors())
 
 const sportsCars = {
-    'bmw m4': { 
+    'bmw-m4': { 
     'curbWeight' : 3990,
     'horsePower': 473, 
     'engineSize': 6,
     'revMax': 6000 
     },
-    'porshe 911 gt3': {
+    'porshe-911-gt3': {
     'curbWeight': 3200, 
     'horsePower': 502, 
     'engineSize': 6,
